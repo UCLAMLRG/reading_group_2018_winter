@@ -37,5 +37,5 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
-|2018-01-26 | Fairness in Machine Learning  | [Wa. Post Summary](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/), [Dressel & Farid 2018](http://advances.sciencemag.org/content/4/1/eaao5580.full), [Bonus Reading](https://arxiv.org/abs/1609.05807)  | T. Do|
+|2018-01-26 | Fairness in Machine Learning  | [Week 1 Readings](week1/README.md) [Wa. Post Summary](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/), [Dressel & Farid 2018](http://advances.sciencemag.org/content/4/1/eaao5580.full), [Bonus Reading](https://arxiv.org/abs/1609.05807)  | T. Do|
 |2018-02-02 |   |   |      |
