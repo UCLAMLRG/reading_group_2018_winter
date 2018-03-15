@@ -40,4 +40,5 @@ Meetings will take place on Fridays at 11 am to Noon in **PAB-3-703**. Room chan
 |2018-01-26 | Fairness in Machine Learning  | [Week 1 Readings](week1/README.md)  | T. Do|
 |2018-02-02 | Generative Adversarial Networks  | [Week 2 Readings](week2/README.md)  | T. Do     |
 |2018-03-02 | ML and Gerrymandering | [Week 3 Readings](week3/README.md)   | B. Boscoe     |
-|2018-03-09 | |   |   A. Gautam   |
+|2018-03-09 | Light curve classification | [Week 4 Readings](week4/README.md)  |   A. Gautam   |
+|2018-03-15 | Hierarchical spectral clustering & DNA Phenotyping | [Week 5 Readings](week5/README.md) |I. Pasquetto  | 
